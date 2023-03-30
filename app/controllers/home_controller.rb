@@ -5,5 +5,9 @@ class HomeController < ApplicationController
 
     def show 
         @home = Home.find(params[:id])
+    end    
+    def new
+        @home = Home.new
     end
 end
+
