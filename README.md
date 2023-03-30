@@ -21,12 +21,12 @@ Acceptance Criteria
 
 <!-- Has a controller action for show
 Has a route for show -->
-Has a view for show
+<!-- Has a view for show
 Can navigate from the list of all blog post titles to the view of any given blog post
 Can see all the title and content for one blog post on a page
 Can navigate back from the show page to the landing page
-Story 3: In order to interact with the blog post application, as a user of the application, I need to see a form where I can fill out information for a new blog post.
-
+Story 3: In order to interact with the blog post application, as a user of the application, I need to see a form where I can fill out information for a new blog post. -->
+<!-- 
 Branch: blog-new
 
 Acceptance Criteria
@@ -38,9 +38,9 @@ Can navigate from the landing page to the view of the new page
 Can see a form for title and content
 Can see a submit button
 Can navigate back from the new page to the landing page
-Story 4: In order to interact with the blog post application, as a user of the application, I need to create a new blog post.
+Story 4: In order to interact with the blog post application, as a user of the application, I need to create a new blog post. -->
 
-Branch: blog-create
+<!-- Branch: blog-create
 
 Acceptance Criteria
 
@@ -49,6 +49,9 @@ Has a route for create
 Can fill out a form for a new blog post and click on a submit button that will trigger a create action
 Can be rerouted to the landing page when a valid blog post is created
 🏔 Stretch Goals
+ -->
+
+
 Story 5: In order to interact with the blog post application, as a user of the application, I need to delete a new blog post.
 
 Branch: blog-delete
