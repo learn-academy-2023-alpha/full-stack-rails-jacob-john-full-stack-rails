@@ -3,6 +3,7 @@
     
     <ul>
         <% @homes.each do |home| %>        
-        <li><%= home.title %></li>
+        <li><%= link_to home.title, home_path(home.id) %></li>
         <% end %>
     </ul>
+

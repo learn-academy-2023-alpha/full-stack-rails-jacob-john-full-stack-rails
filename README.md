@@ -3,7 +3,7 @@ As a developer, I have been commissioned to create a blog post application. As a
 
 Story 1: In order to interact with the blog post application, as a user of the application, I need to see a list of all blog posts.
 
-Branch: blog-index
+<!-- Branch: blog-index
 
 Acceptance Criteria
 
@@ -13,14 +13,14 @@ Has a controller action for index
 Has a route for index
 Has a view for index
 Can see all the blog post titles on the landing page of the application
-Story 2: In order to interact with the blog post application, as a user of the application, I need to see the details of one blog post.
+Story 2: In order to interact with the blog post application, as a user of the application, I need to see the details of one blog post. -->
 
 Branch: blog-show
 
 Acceptance Criteria
 
-Has a controller action for show
-Has a route for show
+<!-- Has a controller action for show
+Has a route for show -->
 Has a view for show
 Can navigate from the list of all blog post titles to the view of any given blog post
 Can see all the title and content for one blog post on a page
